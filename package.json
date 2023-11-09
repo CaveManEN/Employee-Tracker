@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/dscornaienchi/employee-tracker#readme",
   "dependencies": {
-    "inquirer": "^9.2.11"
+    "dotenv": "^16.3.1",
+    "inquirer": "^9.2.11",
+    "mysql2": "^3.6.3"
   }
 }

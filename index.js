@@ -1,3 +1,4 @@
+import 'dotenv/config'; 
 import inquirer from 'inquirer';
 import { getAllDepartments, getAllRoles, getAllEmployees, addDepartment, addRole, addEmployee } from './db/queries.js';
 
